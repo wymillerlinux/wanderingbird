@@ -40,6 +40,7 @@ sleep(3)
 print("**STATUS** Finch has started!")
 
 # Fuctions, yay
+# Actually this is the code that makes this puppy run
 def startFinch():
     finch.led(0, 255, 0)
     finch.wheels(1.0, 1.0)
